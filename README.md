@@ -1,2 +1,2 @@
-# Web-Development-Course-Projects
+# Web-Development-Course-Projects - HTML_Personal_Website
 These projects were created during my learning journey. They are not a part of my portfolio. They are specifically from my Web Development Course by Dr.Angela on Udemy.
